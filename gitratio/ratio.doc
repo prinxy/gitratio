@@ -1,0 +1,11 @@
+The Basic Syntax:
+
+	// You can use same means of output which is 
+	cout << varName::num << varName::den << endl;
+
+// ratio<intVar, intVar> varName;
+// ratio_add < ratio <intVar, intVar >> varName;
+// ratio_multiply < ratio < intVar, intVar >> varName;
+// ratio_subtract < ratio < intVar, intVar >> varName;
+// ratio_divide < ratio < intVar, intVar >> varName;
+
