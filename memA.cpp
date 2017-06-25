@@ -6,7 +6,7 @@
 
 using namespace std;
 
-bool isDone = false;
+bool isDone = true;
 int input;
 char cont;
 string name;
@@ -189,7 +189,7 @@ void _if()
     else 
     {
      system("clear");
-     isDone = true;
+     isDone = false;
     }
   }//whileLoop
 }
